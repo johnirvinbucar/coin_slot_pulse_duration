@@ -39,7 +39,9 @@ You can connect the coin slot sensor's output to GPIO pin **5** (or the pin of y
 5. Open the **Serial Monitor** in the Arduino IDE to view the pulse duration in milliseconds.
 
 ### Example Output:
-Pulse duration: 100 ms Pulse duration: 98 ms Pulse duration: 105 ms
+Pulse duration: 100 ms 
+Pulse duration: 98 ms 
+Pulse duration: 105 ms
 
 
  
